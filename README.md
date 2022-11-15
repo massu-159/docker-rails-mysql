@@ -1,6 +1,6 @@
 # 参考
 
-[【mac】　docker + rails + mysql で環境構築](https://qiita.com/Kashitu/items/37be180df84486405e49)
+・[【mac】　docker + rails + mysql で環境構築](https://qiita.com/Kashitu/items/37be180df84486405e49)
 
 # 環境
 
